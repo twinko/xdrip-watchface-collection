@@ -14,13 +14,15 @@ Follow this link to create your own watchfaces. https://github.com/twinko/GTR-2-
 -   my_image.png
 -   my_watchface.bin
 
-2.  Insert these 3 files into the xdrip folder on your smartphone
+2. How to download: You can downlaod this repository by clicking on the green "code" button on the top of this page and choose "Download ZIP"
+
+3.  Insert these 3 files into the xdrip folder on your smartphone
 
 -   Needed xdrip folder is found here:
     -   Internat storage/xdrip or
     -   root/storage/emulated/0/xdrip
 
-3.  Enable custom watchface in xdrip settings.
+4.  Enable custom watchface in xdrip settings.
 
 More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 
