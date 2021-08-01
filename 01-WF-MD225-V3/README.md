@@ -1,6 +1,5 @@
-# GTR-2-WF-Xdrip-EN
+# 01-WF-MD225-V3
 
-01-WF-MD225-V3
 
 <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/01-WF-MD225-V3/Preview3.gif" alt="drawing" width="400"/>
 <br>
