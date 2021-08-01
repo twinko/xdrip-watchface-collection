@@ -2,8 +2,8 @@
 
 01-WF-MD225-Version3
 
-![Screenshot](https://raw.githubusercontent.com/twinko/GTR-2-WF-Xdrip-EN/main/01-WF-MD225-Version3-xdrip-ready/Preview3.gif)
-![Screenshot](https://user-images.githubusercontent.com/4833779/127302152-1a1910fe-7f4b-434c-9e1d-b2159a8fa7c6.jpg)
+![Screenshot](https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/01-WF-MD225-V3/Preview3.gif)
+![Screenshot](https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/01-WF-MD225-V3/picture.jpg)
 
-This is a copy of popular watchface from Matteo Dini (MD225) which -GAMER- painted from a blank sheet. Ijust adapted it to suite the xdrip needs.
-https://amazfitwatchfaces.com/gtr/view/13907
+This is a copy of popular watchface from Matteo Dini (MD225) which -GAMER- painted from a blank sheet. I just adapted it to suite the xdrip needs.
+Original WF https://amazfitwatchfaces.com/gtr/view/13907
