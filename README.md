@@ -38,6 +38,6 @@ More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/02-WF-MD225(2)-V1/Preview.gif" alt="drawing" width="400"/>
 
 
-## 03-WF-Bip_S-WF1
+## 03-WF-Bip_S-WF1 (thank you Jimmy.Fox for contribution!)
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/watchface_eu_packed_animated.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/Kopie%20souboru%20IMG_20210330_225441.jpg" alt="drawing" width="300"/>
