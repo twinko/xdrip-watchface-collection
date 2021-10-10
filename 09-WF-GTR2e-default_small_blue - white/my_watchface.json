@@ -1,0 +1,434 @@
+﻿{
+  "Info": {
+    "DeviceId": 59,
+    "WatchFaceId": 2005
+  },
+  "Background": {
+    "Preview": [
+      {
+        "LangCode": "All",
+        "ImageSet": {
+          "ImageIndex": 1,
+          "ImagesCount": 1
+        }
+      }
+    ],
+    "Color": "0xFFFF0000"
+  },
+  "DialFace": {
+    "DigitalDialFace": {
+      "Digits": [
+        {
+          "TimeType": "Hour",
+          "CombingMode": "Single",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 169,
+                "Y": 85
+              },
+              "Angle": 0,
+              "Size": 47,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 2
+            },
+            "Spacing": 1,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        },
+        {
+          "TimeType": "Minute",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 0,
+                "Y": 0
+              },
+              "Angle": 0,
+              "Size": 10,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 0
+            },
+            "Spacing": 1,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        }
+      ]
+    }
+  },
+  "System": {
+    "Status": {
+      "Bluetooth": {
+        "Coordinates": {
+          "X": 110,
+          "Y": 325
+        },
+        "ImageIndex": 3
+      }
+    },
+    "Date": {
+      "DateDigits": [
+        {
+          "DateType": "Day",
+          "CombingMode": "Single",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 240,
+                "Y": 118
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 2
+            },
+            "Spacing": 0,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        },
+        {
+          "DateType": "Month",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 0,
+                "Y": 0
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 2
+            },
+            "Spacing": 0,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        },
+        {
+          "DateType": "Year",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 0,
+                "Y": 0
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": -1
+            },
+            "Spacing": 0,
+            "PaddingZero": false,
+            "DisplayFormAnalog": false
+          }
+        }
+      ],
+      "WeeksDigits": {
+        "CombingMode": "Single",
+        "Digit": {
+          "Image": {
+            "X": 170,
+            "Y": 102,
+            "MultilangImage": [
+              {
+                "LangCode": "All",
+                "ImageSet": {
+                  "ImageIndex": 4,
+                  "ImagesCount": 7
+                }
+              }
+            ]
+          },
+          "PaddingZero": false,
+          "DisplayFormAnalog": true
+        }
+      }
+    },
+    "Activity": [
+      {
+        "Type": "ActivityGoal",
+        "Digits": [
+          {
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 500,
+                  "Y": 0
+                },
+                "Angle": 0,
+                "Size": 20,
+                "Color": "0xFFFF8C00",
+                "ShowUnitCheck": -1
+              },
+              "Spacing": 0,
+              "PaddingZero": false,
+              "DisplayFormAnalog": false
+            }
+          }
+        ]
+      },
+      {
+        "Type": "FatBurning",
+        "Digits": [
+          {
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 500,
+                  "Y": 0
+                },
+                "Angle": 0,
+                "Size": 20,
+                "Color": "0xFFFF8C00",
+                "ShowUnitCheck": -1
+              },
+              "Spacing": 0,
+              "PaddingZero": false,
+              "DisplayFormAnalog": false
+            }
+          }
+        ],
+        "Icon": {
+          "Coordinates": {
+            "X": 76,
+            "Y": 162
+          },
+          "ImageIndex": 2
+        }
+      },
+      {
+        "Type": "Battery",
+        "ProgressBar": {
+          "AngleSettings": {
+            "X": 227,
+            "Y": 227,
+            "StartAngle": 271.0,
+            "EndAngle": 628.0,
+            "Radius": 223.0
+          },
+          "Color": "0xFF0080C0",
+          "Width": 11,
+          "Flatness": 0
+        },
+        "Digits": [
+          {
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 208,
+                  "Y": 418
+                },
+                "Angle": 0,
+                "Size": 25,
+                "Color": "0xFF0080C0",
+                "ShowUnitCheck": 2
+              },
+              "Spacing": 0,
+              "PaddingZero": false,
+              "DisplayFormAnalog": false
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Steps",
+        "ProgressBar": {
+          "AngleSettings": {
+            "X": 227,
+            "Y": 227,
+            "StartAngle": 271.0,
+            "EndAngle": 634.0,
+            "Radius": 210.0
+          },
+          "Color": "0xFFFFFFFF",
+          "Width": 11,
+          "Flatness": 0
+        },
+        "Digits": [
+          {
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "FontRotate": {
+                  "X": 227,
+                  "Y": 227,
+                  "Radius": 182,
+                  "RotateDirection": 0.0
+                },
+                "Angle": -91,
+                "Size": 25,
+                "Color": "0xFFFFFFFF",
+                "ShowUnitCheck": 1
+              },
+              "Spacing": 0,
+              "PaddingZero": false,
+              "DisplayFormAnalog": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "ScreenIdle": {
+    "DialFace": {
+      "DigitalDialFace": {
+        "Digits": [
+          {
+            "TimeType": "Hour",
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 172,
+                  "Y": 85
+                },
+                "Angle": 0,
+                "Size": 47,
+                "Color": "0xFFFFFFFF",
+                "ShowUnitCheck": 2
+              },
+              "Spacing": 1,
+              "PaddingZero": true,
+              "DisplayFormAnalog": false
+            }
+          },
+          {
+            "TimeType": "Minute",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Angle": 0,
+                "Size": 10,
+                "Color": "0xFFFFFFFF",
+                "ShowUnitCheck": 0
+              },
+              "Spacing": 1,
+              "PaddingZero": true,
+              "DisplayFormAnalog": false
+            }
+          }
+        ]
+      }
+    },
+    "Date": {
+      "DateDigits": [
+        {
+          "DateType": "Day",
+          "CombingMode": "Single",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 240,
+                "Y": 118
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 2
+            },
+            "Spacing": 0,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        },
+        {
+          "DateType": "Month",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 0,
+                "Y": 0
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": 2
+            },
+            "Spacing": 0,
+            "PaddingZero": true,
+            "DisplayFormAnalog": false
+          }
+        },
+        {
+          "DateType": "Year",
+          "Digit": {
+            "SystemFont": {
+              "Coordinates": {
+                "X": 0,
+                "Y": 0
+              },
+              "Angle": 0,
+              "Size": 25,
+              "Color": "0xFFFFFFFF",
+              "ShowUnitCheck": -1
+            },
+            "Spacing": 0,
+            "PaddingZero": false,
+            "DisplayFormAnalog": false
+          }
+        }
+      ],
+      "WeeksDigits": {
+        "CombingMode": "Single",
+        "Digit": {
+          "Image": {
+            "X": 170,
+            "Y": 102,
+            "MultilangImage": [
+              {
+                "LangCode": "All",
+                "ImageSet": {
+                  "ImageIndex": 4,
+                  "ImagesCount": 7
+                }
+              }
+            ]
+          },
+          "PaddingZero": false,
+          "DisplayFormAnalog": true
+        }
+      }
+    },
+    "Activity": [
+      {
+        "Type": "FatBurning",
+        "Digits": [
+          {
+            "CombingMode": "Single",
+            "Digit": {
+              "SystemFont": {
+                "Coordinates": {
+                  "X": 500,
+                  "Y": 0
+                },
+                "Angle": 0,
+                "Size": 20,
+                "Color": "0xFFFF8C00",
+                "ShowUnitCheck": -1
+              },
+              "Spacing": 0,
+              "PaddingZero": false,
+              "DisplayFormAnalog": false
+            }
+          }
+        ],
+        "Icon": {
+          "Coordinates": {
+            "X": 76,
+            "Y": 162
+          },
+          "ImageIndex": 2
+        }
+      }
+    ]
+  }
+}
