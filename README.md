@@ -35,8 +35,7 @@ More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 
 ## 02-WF-MD225(2)-V1
 
-<img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/02-WF-MD225(2)-V1/Preview.gif" alt="drawing" width="400"/>
-&nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/02-WF-MD225(2)-V1/WhatsApp%20Image%202021-10-10%20at%2021.53.14.jpeg" alt="drawing" width="400"/>
+<img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/02-WF-MD225(2)-V1/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/02-WF-MD225(2)-V1/WhatsApp%20Image%202021-10-10%20at%2021.53.14.jpeg" alt="drawing" width="400"/>
 
 
 
