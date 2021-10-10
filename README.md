@@ -42,7 +42,8 @@ More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/watchface_eu_packed_animated.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/Kopie%20souboru%20IMG_20210330_225441.jpg" alt="drawing" width="300"/>
 
-## 04-WF-GTR2e-default_small_pink-blue (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+## 04-WF-GTR2e-default_small_pink-blue 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/WhatsApp%20Image%202021-10-10%20at%2018.18.32.jpeg" alt="drawing" width="300"/>
 
