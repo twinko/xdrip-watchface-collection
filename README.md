@@ -36,6 +36,8 @@ More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 ## 02-WF-MD225(2)-V1
 
 <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/02-WF-MD225(2)-V1/Preview.gif" alt="drawing" width="400"/>
+&nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/02-WF-MD225(2)-V1/WhatsApp%20Image%202021-10-10%20at%2021.53.14.jpeg" alt="drawing" width="400"/>
+
 
 
 ## 03-WF-Bip_S-WF1 (thank you Jimmy.Fox for contribution!)
@@ -47,3 +49,52 @@ More help here: https://github.com/twinko/GTR-2-WF-Xdrip-guide
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/WhatsApp%20Image%202021-10-10%20at%2018.18.32.jpeg" alt="drawing" width="300"/>
 
+## 05-WF-GTR2e-default_small_gray 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/05-WF-GTR2e-default_small_gray/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/05-WF-GTR2e-default_small_gray/WhatsApp%20Image%202021-10-10%20at%2020.14.42.jpeg" alt="drawing" width="300"/>
+
+## 06-WF-GTR2e-default_small_green-orange 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/06-WF-GTR2e-default_small_green-orange/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/06-WF-GTR2e-default_small_green-orange/WhatsApp%20Image%202021-10-10%20at%2020.37.53.jpeg" alt="drawing" width="300"/>
+
+## 07-WF-GTR2e-default_small_dark-green-orange
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/07-WF-GTR2e-default_small_dark-green-orange/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/07-WF-GTR2e-default_small_dark-green-orange/WhatsApp%20Image%202021-10-10%20at%2021.35.54.jpeg" alt="drawing" width="300"/>
+
+## 08-WF-GTR2e-default_small_blue
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/08-WF-GTR2e-default_small_blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/08-WF-GTR2e-default_small_blue/WhatsApp%20Image%202021-10-10%20at%2021.34.40.jpeg" alt="drawing" width="300"/>
+
+## 04-WF-GTR2e-default_small_pink-blue 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/04-WF-GTR2e-default_small_pink-blue/WhatsApp%20Image%202021-10-10%20at%2018.18.32.jpeg" alt="drawing" width="300"/>
+
+## 09-WF-GTR2e-default_small_blue - white 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/09-WF-GTR2e-default_small_blue%20-%20white/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/09-WF-GTR2e-default_small_blue%20-%20white/WhatsApp%20Image%202021-10-10%20at%2021.34.40.jpeg" alt="drawing" width="300"/>
+
+## 10-WF-GTR2e-default_small_orange - white
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/10-WF-GTR2e-default_small_orange%20-%20white/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/10-WF-GTR2e-default_small_orange%20-%20white/WhatsApp%20Image%202021-10-10%20at%2021.38.33(1).jpeg" alt="drawing" width="300"/>
+
+## 11-WF-GTR2e-default_small_orange - blue 
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/11-WF-GTR2e-default_small_orange%20-%20blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/11-WF-GTR2e-default_small_orange%20-%20blue/WhatsApp%20Image%202021-10-10%20at%2021.34.41.jpeg" alt="drawing" width="300"/>
+
+## 12-WF-GTR2e-default_small_red-green
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/12-WF-GTR2e-default_small_red-green/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/12-WF-GTR2e-default_small_red-green/WhatsApp%20Image%202021-10-10%20at%2021.34.41.jpeg" alt="drawing" width="300"/>
+
+## 13-WF-GTR2e-default_small_red-blue
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turnes off)
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/WhatsApp%20Image%202021-10-10%20at%2021.34.41.jpeg" alt="drawing" width="300"/>
