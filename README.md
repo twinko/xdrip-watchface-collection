@@ -48,7 +48,7 @@ All settings need to be done on the watch
 
 
 
-## 03-WF-Bip_S-WF1 (thank you Jimmy.Fox for contribution!)
+## 03-WF-Bip_S-WF1 (thank you @JimmyFoks for contribution!)
 ### No AOD with glucose data
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/watchface_eu_packed_animated.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/Kopie%20souboru%20IMG_20210330_225441.jpg" alt="drawing" width="300"/>
