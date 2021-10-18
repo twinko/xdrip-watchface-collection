@@ -37,16 +37,19 @@ All settings need to be done on the watch
 
 # Custom watchface collection (GTR 2e & BIP-S)
 ## 01-WF-MD225-V3
+### No AOD with glucose data
 
 <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/01-WF-MD225-V3/Preview3.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/01-WF-MD225-V3/picture.jpg" alt="drawing" width="400"/>
 
 ## 02-WF-MD225(2)-V1
+### No AOD with glucose data
 
 <img src="https://github.com/twinko/GTR2e-xdrip-watchface-collection/blob/main/02-WF-MD225(2)-V1/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/02-WF-MD225(2)-V1/WhatsApp%20Image%202021-10-10%20at%2021.53.14.jpeg" alt="drawing" width="400"/>
 
 
 
 ## 03-WF-Bip_S-WF1 (thank you Jimmy.Fox for contribution!)
+### No AOD with glucose data
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/watchface_eu_packed_animated.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/03-WF-Bip_S-WF1/Kopie%20souboru%20IMG_20210330_225441.jpg" alt="drawing" width="300"/>
 
@@ -106,6 +109,6 @@ All settings need to be done on the watch
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/WhatsApp%20Image%202021-10-10%20at%2021.34.41.jpeg" alt="drawing" width="300"/>
 
 ## 14-WF-GTS2e-green-white
-### (thank you @dubidrubi for contribution!) No AOD
+### (thank you @dubidrubi for contribution!) No AOD with glucose data
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-GTS2e-green-white/wf-2-gts2e.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-GTS2e-green-white/14-WF-GTS2e-WF2-reallife.jpeg" alt="drawing" width="300"/>
