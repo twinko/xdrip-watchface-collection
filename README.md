@@ -104,3 +104,8 @@ All settings need to be done on the watch
 ### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turned off)
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/13-WF-GTR2e-default_small_red-blue/WhatsApp%20Image%202021-10-10%20at%2021.34.41.jpeg" alt="drawing" width="300"/>
+
+## 14-WF-Bip_S-WF2
+### (thank you @dubidrubi for contribution!) No AOD
+
+<img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-Bip_S-WF2/wf-2-bips.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-Bip_S-WF2/14-WF-Bip_S-WF2-reallife.jpeg" alt="drawing" width="300"/>
