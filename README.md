@@ -35,7 +35,7 @@ All settings need to be done on the watch
 
 <br>
 
-# Custom watchface collection (GTR 2e & BIP-S)
+# Custom watchface collection (GTR 2e & GTS 2e & BIP-S)
 ## 01-WF-MD225-V3
 ### No AOD with glucose data
 
