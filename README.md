@@ -112,3 +112,9 @@ All settings need to be done on the watch
 ### (thank you [@dubidrubi](https://github.com/dubidrubi) for contribution!) No AOD with glucose data
 
 <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-GTS2e-green-white/wf-2-gts2e.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/twinko/xdrip-watchface-collection/main/14-WF-GTS2e-green-white/14-WF-GTS2e-WF2-reallife.jpeg" alt="drawing" width="300"/>
+
+## 15-WF-GTR2e-orange-white
+### (thank you [@mavricaaa](hhttps://github.com/mavricaaa) for contribution!) with AOD--> you see your Bloodsugar even if watch is turned off
+
+<img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/15-WF-GTR2e-orange-white/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/15-WF-GTR2e-orange-white/preview1.jpg" alt="drawing" width="300"/>
+
