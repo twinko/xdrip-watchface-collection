@@ -118,3 +118,8 @@ All settings need to be done on the watch
 
 <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/15-WF-GTR2e-orange-white/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/15-WF-GTR2e-orange-white/preview1.jpg" alt="drawing" width="300"/>
 
+
+## 16-WF-GTR2e-default_small_green-red
+### (smaller than default --> faster upload, with AOD--> you see your Bloodsugar even if watch is turned off)
+
+<img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/16-WF-GTR2e-default_small_green-red/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/16-WF-GTR2e-default_small_green-red/WhatsApp%20Image%202022-02-28%20at%2015.26.33.jpeg" alt="drawing" width="300"/>
