@@ -129,3 +129,9 @@ All settings need to be done on the watch
 ### (thank you [@cronikle](https://github.com/cronikle) for contribution!) No AOD with glucose data
 
 <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/17-WF-GTS2-GTS2E-nike-green/Preview.gif" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/17-WF-GTS2-GTS2E-nike-green/preview1.jpg" alt="drawing" width="300"/>
+
+
+## 18-WF-Bip_S_simplified-WF2
+### (thank you [@prothed99](https://github.com/prothed99) for contribution!) No AOD with glucose data
+
+<img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/18-WF-Bip_S_simplified-WF2/image_preview.jpg" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/18-WF-Bip_S_simplified-WF2/179355484-ca678881-b19c-4d79-8f5d-f2d0936c2971.jpg" alt="drawing" width="300"/>
