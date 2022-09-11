@@ -135,3 +135,21 @@ All settings need to be done on the watch
 ### (thank you [@prothed99](https://github.com/prothed99) for contribution!) No AOD with glucose data
 
 <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/18-WF-Bip_S_simplified-WF2/image_preview.jpg" alt="drawing" width="400"/>  &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/18-WF-Bip_S_simplified-WF2/179355484-ca678881-b19c-4d79-8f5d-f2d0936c2971.jpg" alt="drawing" width="300"/>
+
+## 19-WF-GTR2e-14mod-xdrip
+### (thank you [@hibrice](https://github.com/hibrice) for contribution!) 
+
+<img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/19-WF-CTR2e-14mod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/19-WF-CTR2e-14mod-xdrip/preview_14mod.jpeg" alt="drawing" width="300"/>
+
+This is a copy of a mod of 14. I adapted it and optimized it to suite the xdrip needs.
+Original mod14 WF https://amazfitwatchfaces.com/gtr/view/12117
+
+## 20-WF-GTR2e-blurmod-xdrip
+### (thank you [@hibrice](https://github.com/hibrice) for contribution!) 
+
+<img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/20-WF-CTR2e-blurmod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/20-WF-CTR2e-blurmod-xdrip/preview_blur.jpeg" alt="drawing" width="300"/>
+
+This is a copy of Blur watchface from azure3239085. I simplified it and optimized it to suite the xdrip needs.
+Original WF https://amazfitwatchfaces.com/gtr/view/23747
+
+
