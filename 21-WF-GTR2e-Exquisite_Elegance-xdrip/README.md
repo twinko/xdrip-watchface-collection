@@ -1,6 +1,6 @@
 # 21-WF-CTR2e-Exquisite_Elegance-xdrip
 
-<img src="./Preview.gif" alt="drawing" width="400"/>
+<img src="./preview.gif" alt="drawing" width="400"/>
 <br>
 <img src="./preview_exquisite.jpeg" alt="drawing" width="400"/>
 
