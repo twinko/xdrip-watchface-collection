@@ -53,8 +53,8 @@
   },
   "no_readings_time_text": {
 	"position": {
-	  "x": 36,
-	  "y": 89
+	  "x": 32,
+	  "y": 120
 	},
 	"text_pattern": "at $time",
 	"text_settings": {
