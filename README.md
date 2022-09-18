@@ -139,7 +139,7 @@ All settings need to be done on the watch
 ## 19-WF-GTR2e-14mod-xdrip
 ### (thank you [@hibrice](https://github.com/hibrice) for contribution!) AOD with data but without graph
 
-<img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/19-WF-GTR2e-14mod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/19-WF-GTR2e-14mod-xdrip/preview_14mod.jpeg" alt="drawing" width="300"/>
+<img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/19-WF-GTR2e-14mod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/19-WF-GTR2e-14mod-xdrip/preview_14mod.jpeg" alt="drawing" width="300"/>
 
 This is a copy of a mod of 14. I adapted it and optimized it to suite the xdrip needs.
 Original mod14 WF https://amazfitwatchfaces.com/gtr/view/12117
@@ -147,7 +147,7 @@ Original mod14 WF https://amazfitwatchfaces.com/gtr/view/12117
 ## 20-WF-GTR2e-blurmod-xdrip
 ### (thank you [@hibrice](https://github.com/hibrice) for contribution!) AOD with data but without graph
 
-<img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/20-WF-GTR2e-blurmod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/20-WF-GTR2e-blurmod-xdrip/preview_blur.jpeg" alt="drawing" width="300"/>
+<img src="https://github.com/twinko/xdrip-watchface-collection/blob/main/20-WF-GTR2e-blurmod-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/hibrice/xdrip-watchface-collection/blob/main/20-WF-GTR2e-blurmod-xdrip/preview_blur.jpeg" alt="drawing" width="300"/>
 
 This is a copy of Blur watchface from azure3239085. I simplified it and optimized it to suite the xdrip needs.
 Original WF https://amazfitwatchfaces.com/gtr/view/23747

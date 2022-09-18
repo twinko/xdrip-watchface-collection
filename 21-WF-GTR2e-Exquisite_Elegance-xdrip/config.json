@@ -1,0 +1,66 @@
+{
+  "description": "Watchcface for Amazfit GTR2(GTR2e)",
+  "use_custom_arrows": false,
+  "resource_to_replace": 4,
+  "arrow_position": {
+	"x": 90,
+	"y": 60
+  },
+  "bg_value_text": {
+	"color_high": "#ff4a47",
+	"color_low": "#ff4a47",
+	"position": {
+	  "x": 80,
+	  "y": 89
+	},
+	"text_pattern": "$value",
+	"text_settings": {
+	  "font_size": 30,
+	  "stroke_width": 2,
+	  "text_align": "right",
+	  "text_scale": 0.88,
+	  "text_style": "bold",
+	  "color":"#eee3d1"
+	}
+  },
+  "delta_text": {
+	"position": {
+	  "x": 32,
+	  "y": 120
+	},
+	"text_pattern": "$value $time",
+	"outdated_text_pattern": "$value $time ago",
+	"text_settings": {
+	  "font_size": 22,
+	  "text_align": "right",
+	  "color":"#eee3d1"
+	}
+  },
+  "no_readings_text": {
+	"position": {
+	  "x": 36,
+	  "y": 89
+	},
+	"text_pattern": "No data",
+	"text_settings": {
+	  "font_size": 30,
+		"stroke_width": 2,
+		"text_align": "right",
+		"text_scale": 0.88,
+		"text_style": "bold",
+		"color":"#eee3d1"
+	}
+  },
+  "no_readings_time_text": {
+	"position": {
+	  "x": 32,
+	  "y": 120
+	},
+	"text_pattern": "at $time",
+	"text_settings": {
+	  "font_size": 22,
+	  "text_align": "right",
+	  "color":"#eee3d1"
+	}
+  }
+}
