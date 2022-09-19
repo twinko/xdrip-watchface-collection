@@ -4,8 +4,10 @@
 
 Hello,
 
-here I'll try to collect all working watchfaces for the GTR2e that are adapted to [xdrip](https://github.com/twinko/GTR-2-WF-Xdrip-guide). 
+here I'll try to collect all working watchfaces for the GTR2(e)/GTS2(e)/BIP-S that are adapted to [xdrip](https://github.com/twinko/GTR-2-WF-Xdrip-guide). 
 Follow this link to create your own watchfaces. https://github.com/twinko/GTR-2-WF-Xdrip-guide
+
+The whole community would be very thankfull, if you contribute your custom watchface. All supported devices are welcome. Just create a pull requerst or create an issue to get in contact.
 
 ## How to install a custom watchface
 
