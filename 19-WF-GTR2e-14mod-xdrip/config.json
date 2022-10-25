@@ -7,8 +7,8 @@
 	"y": 40
   },
   "bg_value_text": {
-	"color_high": "#ffffa0a0",
-	"color_low": "#ff8bbbff",
+	"color_high": "#ff4a47",
+	"color_low": "#ff4a47",
 	"position": {
 	  "x": 50,
 	  "y": 72
