@@ -2,7 +2,7 @@
 
 <img src="./preview.gif" alt="drawing" width="400"/>
 <br>
-<img src="./preview_analoggtr4.jpeg" alt="drawing" width="400"/>
+<img src="./analog-gtr4-preview.jpeg" alt="drawing" width="400"/>
 
-This is a copy of Analog GTR4 from Czalien. I simplified it and optimized it to suite the xdrip needs.
-Original WF 
+This is a copy of Analog GTR4 from CzAlien. I simplified it and optimized it to suite the xdrip needs.
+Original WF https://amazfitwatchfaces.com/gtr/view/27765

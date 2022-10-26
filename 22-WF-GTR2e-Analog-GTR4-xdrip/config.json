@@ -3,8 +3,8 @@
   "use_custom_arrows": true,
   "resource_to_replace": 41,
   "arrow_position": {
-	"x": 34,
-	"y": 0
+	"x": 33,
+	"y": 2
   },
   "bg_value_text": {
 	"color_high": "#ff4a47",
