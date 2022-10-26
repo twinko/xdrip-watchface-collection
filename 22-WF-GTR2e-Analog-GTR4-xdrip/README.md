@@ -1,6 +1,6 @@
 # 22-WF-CTR2e-Analog-GTR4-xdrip
 
-<img src="./preview.gif" alt="drawing" width="400"/>
+<img src="./Preview.gif" alt="drawing" width="400"/>
 <br>
 <img src="./analog-gtr4-preview.jpeg" alt="drawing" width="400"/>
 
