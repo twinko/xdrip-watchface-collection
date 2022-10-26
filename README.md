@@ -166,9 +166,7 @@ This is an analog WF inspired by Exquisite Elegance from Zepp Health. I optimize
 # 22-WF-CTR2e-Analog-GTR4-xdrip
 ### (thank you [@hibrice](https://github.com/hibrice) for contribution!) AOD with data but without graph
 
-<img src="./22-WF-GTR2e-Analog-GTR4-xdrip/Preview.gif" alt="drawing" width="400"/>
-<br>
-<img src="./22-WF-GTR2e-Analog-GTR4-xdrip/analog-gtr4-preview.jpeg" alt="drawing" width="400"/>
+<img src="./22-WF-GTR2e-Analog-GTR4-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./22-WF-GTR2e-Analog-GTR4-xdrip/analog-gtr4-preview.jpeg" alt="drawing" width="300"/>
 
 This is a copy of Analog GTR4 from CzAlien. I simplified it and optimized it to suite the xdrip needs.
 Original WF https://amazfitwatchfaces.com/gtr/view/27765
