@@ -1,60 +1,68 @@
 {
   "description": "Watchcface for Amazfit GTR2(GTR2e)",
-  "use_custom_arrows": false,
-  "resource_to_replace": 4,
+  "use_custom_arrows": true,
+  "resource_to_replace": 41,
   "arrow_position": {
-	"x": 36,
-	"y": 35
+	"x": 33,
+	"y": 2
   },
   "bg_value_text": {
 	"color_high": "#ff4a47",
 	"color_low": "#ff4a47",
 	"position": {
-	  "x": 20,
-	  "y": 70
+	  "x": 0,
+	  "y": 54
 	},
 	"text_pattern": "$value",
 	"text_settings": {
-	  "font_family": "sans-serif",
-	  "font_size": 51,
+	  "font_size": 28,
 	  "stroke_width": 2,
-	  "text_align": "right",
-	  "text_scale": 0.88,
-	  "text_style": "normal"
+	  "text_align": "center",
+	  "text_scale": 0.9,
+	  "text_style": "normal",
+	  "color":"#FFFFFF"
 	}
   },
   "delta_text": {
 	"position": {
-	  "x": 20,
-	  "y": 100
+	  "x": 0,
+	  "y": 74
 	},
 	"text_pattern": "$value $time",
 	"outdated_text_pattern": "$value $time ago",
 	"text_settings": {
-	  "font_size": 22,
-	  "text_align": "right"
+	  "font_size": 18,
+	  "text_scale": 0.80,
+	  "text_align": "center",
+	  "color":"#FFFFFF"
 	}
   },
   "no_readings_text": {
 	"position": {
-	  "x": 20,
-	  "y": 70
+	  "x": 0,
+	  "y": 50
 	},
 	"text_pattern": "No data",
 	"text_settings": {
-	  "font_size": 30,
-	  "text_align": "right"
+	  "font_size": 28,
+		"stroke_width": 2,
+		"text_align": "center",
+		"text_scale": 0.74,
+		"text_style": "normal",
+		"color":"#FFFFFF"
 	}
   },
   "no_readings_time_text": {
 	"position": {
-	  "x": 20,
-	  "y": 105
+	  "x": 0,
+	  "y": 70
 	},
 	"text_pattern": "at $time",
 	"text_settings": {
 	  "font_size": 18,
-	  "text_align": "right"
+	  "text_scale": 0.80,
+	  "text_align": "center",
+	  "color":"#ffffff"
 	}
   }
 }
