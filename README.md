@@ -155,7 +155,7 @@ This is a copy of Blur watchface from azure3239085. I simplified it and optimize
 Original WF https://amazfitwatchfaces.com/gtr/view/23747
 
 
-## 21-WF-CTR2e-Exquisite_Elegance-xdrip
+## 21-WF-GTR2e-Exquisite_Elegance-xdrip
 ### (thank you [@hibrice](https://github.com/hibrice) for contribution!) AOD with data but without graph
 
 <img src="https://github.com/twinko/xdrip-watchface-collection/raw/main/21-WF-GTR2e-Exquisite_Elegance-xdrip/preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="https://github.com/twinko/xdrip-watchface-collection/raw/main/21-WF-GTR2e-Exquisite_Elegance-xdrip/preview_exquisite.jpeg" alt="drawing" width="300"/>
@@ -163,7 +163,7 @@ Original WF https://amazfitwatchfaces.com/gtr/view/23747
 This is an analog WF inspired by Exquisite Elegance from Zepp Health. I optimized it to suite the xdrip needs. AOD with data but without graph.
 
 
-# 22-WF-CTR2e-Analog-GTR4-xdrip
+# 22-WF-GTR2e-Analog-GTR4-xdrip
 ### (thank you [@hibrice](https://github.com/hibrice) for contribution!) AOD with data but without graph
 
 <img src="./22-WF-GTR2e-Analog-GTR4-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./22-WF-GTR2e-Analog-GTR4-xdrip/analog-gtr4-preview.jpeg" alt="drawing" width="300"/>
