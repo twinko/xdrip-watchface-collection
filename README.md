@@ -171,3 +171,8 @@ This is an analog WF inspired by Exquisite Elegance from Zepp Health. I optimize
 This is a copy of Analog GTR4 from CzAlien. I simplified it and optimized it to suite the xdrip needs.
 Original WF https://amazfitwatchfaces.com/gtr/view/27765
 
+
+# 23-WF-GTR2e-winter_christmas-xdrip
+### (thank you [@mavricaaa](https://github.com/mavricaaa) for contribution!) No AOD, no graph, no iob.
+
+<img src="./23-WF-GTR2e-winter_christmas-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./23-WF-GTR2e-winter_christmas-xdrip/IMG_20221208_124939.jpg" alt="drawing" width="300"/>
