@@ -1,0 +1,95 @@
+{
+  "description": "Watchcface for Amazfit GTR2(GTR2e)",
+  "use_custom_arrows": false,
+  "resource_to_replace": 12,
+  "arrow_position": {
+    "x": 80,
+    "y": 1
+  },
+  "bg_value_text": {
+    "color_high": "#ffffa0a0",
+    "color_low": "#ff8bbbff",
+    "position": {
+      "x": 5,
+      "y": 33
+    },
+    "text_pattern": "$value",
+    "text_settings": {
+      "font_family": "tahoma",
+      "font_size": 45,
+      "stroke_width": 5,
+      "text_align": "left",
+      "text_scale": 0.88,
+      "text_style": "bold"
+    }
+  },
+  "delta_text": {
+    "position": {
+      "x": 120,
+      "y": 30
+    },
+    "text_pattern": "$value $time",
+    "outdated_text_pattern": "$value $time ago",
+    "text_settings": {
+	  "text_style": "bold",
+      "font_size": 23,
+      "text_align": "left"
+    }
+  },
+  "graph": {
+    "bg_color": "#00000000",
+    "height": 130,
+    "width": 300,
+    "position": {
+      "x":10,
+      "y":30
+    }
+  },
+  "iob_text": {
+    "position": {
+      "x": 135,
+      "y": 102
+    },
+    "text_pattern": "IoB: $value",
+    "text_settings": {
+	  "text_style": "bold",
+      "font_size": 17,
+      "text_align": "right"
+    }
+  },
+  "treatment_text": {
+    "position": {
+      "x": 133,
+      "y": 102
+    },
+    "text_pattern": "$value $time",
+    "outdated_text_pattern": "$value $time ago",
+    "text_settings": {
+	"text_style": "bold",
+      "font_size": 17,
+      "text_align": "left"
+    }
+  },
+  "no_readings_text": {
+    "position": {
+      "x": 0,
+      "y": 70
+    },
+    "text_pattern": "No data",
+    "text_settings": {
+      "font_size": 30,
+      "text_align": "center"
+    }
+  },
+  "no_readings_time_text": {
+    "position": {
+      "x": 0,
+      "y": 133
+    },
+    "text_pattern": "at $time",
+    "text_settings": {
+      "font_size": 18,
+      "text_align": "right"
+    }
+  }
+}
