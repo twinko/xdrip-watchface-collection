@@ -179,6 +179,6 @@ Original WF https://amazfitwatchfaces.com/gtr/view/27765
 
 
 ## 24-WF-GTR2e-jlx-mix-xdrip
-### AOD with data and graph.
+### (thank you @Joselekis from [watchdrip discord](https://www.patreon.com/posts/watchdrip-server-77406652) for contribution!) AOD with data and graph.  
 
 <img src="./24-WF-GTR2e-jlx-mix-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./24-WF-GTR2e-jlx-mix-xdrip/jlx_wf_v2.jpg" alt="drawing" width="300"/>
