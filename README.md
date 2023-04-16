@@ -176,3 +176,9 @@ Original WF https://amazfitwatchfaces.com/gtr/view/27765
 ### (thank you [@mavricaaa](https://github.com/mavricaaa) for contribution!) No AOD, no graph, no iob.
 
 <img src="./23-WF-GTR2e-winter_christmas-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./23-WF-GTR2e-winter_christmas-xdrip/IMG_20221208_124939.jpg" alt="drawing" width="300"/>
+
+
+## 24-WF-GTR2e-jlx-mix-xdrip
+### AOD with data but without graph.
+
+<img src="./24-WF-GTR2e-jlx-mix-xdrip/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./24-WF-GTR2e-jlx-mix-xdrip/jlx_wf_v2.jpg" alt="drawing" width="300"/>
