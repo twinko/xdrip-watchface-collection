@@ -187,3 +187,8 @@ Original WF https://amazfitwatchfaces.com/gtr/view/27765
 ### (thank you @Jimmy.Fox from [watchdrip discord](https://www.patreon.com/posts/watchdrip-server-77406652) for contribution!) AOD with data and graph.  
 
 <img src="./25-WF-GTR2e-default_small_gray_plus/Preview.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./25-WF-GTR2e-default_small_gray_plus/Pic-ON.jpg" alt="drawing" width="300"/>
+
+## 26-WF-Bip_S_simplified-WF3
+### (thank you @Jimmy.Fox from [@DMS4444](https://github.com/DMS4444) for contribution!) AOD with data and graph.  
+
+<img src="./26-WF-Bip_S_simplified-WF3/watchface_packed_animated.gif" alt="drawing" width="400"/> &nbsp; &nbsp; <img src="./26-WF-Bip_S_simplified-WF3/photo_2023-11-23_18-33-01.jpg" alt="drawing" width="300"/>
